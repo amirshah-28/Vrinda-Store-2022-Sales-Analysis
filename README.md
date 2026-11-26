@@ -1,92 +1,102 @@
-# Vrinda-Stpre-2022-Sales-Analysis
-Retail sales analysis of Vrinda Store's 2022 data using Microsoft Excel, Pivot Tables, charts and an interactive dashboard to identify sales trends and customer purchasing patterns.
-Vrinda Store 2022 – Sales Data Analysis
+# 📊 Vrinda Store 2022 – Sales Data Analysis
 
-Project Overview
+Retail sales analysis of Vrinda Store's 2022 data using
+Microsoft Excel, PivotTables, charts and an interactive dashboard.
 
-This project focuses on analysing Vrinda Store's 2022 retail sales data using Microsoft Excel. The objective is to understand sales performance, customer purchasing behaviour, order trends and sales channel contributions through data analysis and interactive dashboard visualisations.
+---
 
-Project Objectives
+## 📌 Project Overview
 
-Analyse monthly sales and order trends.
+This project focuses on analysing Vrinda Store's 2022 retail
+sales data using Microsoft Excel.
 
-Compare purchasing patterns between men and women.
+The objective is to understand sales performance, customer
+purchasing behaviour, monthly trends, order status and
+sales channel contributions through data analysis and
+interactive dashboard visualisations.
 
-Examine different order statuses.
+## 🎯 Project Objectives
 
-Identify the top-performing states.
+- Analyse monthly sales and order trends.
+- Compare purchasing patterns between men and women.
+- Examine different order statuses.
+- Understand customer age-group purchasing behaviour.
+- Identify top-performing states and sales channels.
 
-Understand the relationship between customer age groups and gender.
+## 🛠️ Tools Used
 
-Analyse sales performance across different e-commerce channels.
+- Microsoft Excel
+- PivotTables and PivotCharts
+- Excel formulas
+- Data visualisation
 
-Tools & Techniques Used
+---
 
-Microsoft Excel
+## 📊 Dashboard
 
-Data Analysis
+Vrinda-Store-Analysis-Dashboard.png
 
-Pivot Tables
+---
 
-Excel Formulas
+## 📈 Key Performance Indicators
 
-Data Visualisation
+| Metric | Value |
+|---|---:|
+| Total Sales | ₹2,11,76,377 |
+| Unique Orders | 28,471 |
+| Total Units Sold | 31,237 |
+| Average Order Value | ₹743.79 |
 
-Charts and Interactive Slicers
+## 🔍 Key Findings
 
-Dataset Information
+- Female customers accounted for 69.4% of transaction records.
+- Female sales contribution was approximately 64.0%.
+- The adult age group contributed approximately 50.1% of sales.
+- Approximately 92.25% of transaction records had delivered status.
+- Maharashtra, Karnataka and Uttar Pradesh were the top
+  three states, contributing approximately 36.56% of sales.
+- Amazon was the leading sales channel, contributing
+  approximately 35.51% of sales.
+- Amazon, Myntra and Flipkart collectively contributed
+  approximately 80.4% of sales.
 
-Analysis Year: 2022
+### 📅 Monthly Sales Insights
 
-Total Records: 31,047
+- March recorded the highest monthly sales:
+  ₹19,28,066.
+- November recorded the lowest monthly sales:
+  ₹16,15,356.
 
-Currency: Indian Rupees (INR)
+## 💡 Business Recommendations
 
-Dataset Fields: Customer demographics, order details, product categories, sales amounts, order status, location and sales channels.
+- Focus marketing campaigns on the adult age group.
+- Strengthen sales and distribution strategies in
+  top-performing states.
+- Continue focusing on major online sales channels
+  while exploring growth opportunities in other channels.
+- Investigate lower-performing months to identify
+  opportunities for improving sales.
 
-Key Insights
+## 📁 Project Files
 
-Total sales amounted to ₹2,11,76,377.
+- **Excel Workbook:** Contains the raw dataset,
+  PivotTables, supporting analysis and dashboard.
+- **Dashboard:** Visual representation of important
+  sales metrics and trends.
 
-Women accounted for approximately 69.4% of the dataset's records and 64% of total sales.
+## 📝 Conclusion
 
-The adult age group (30–49 years) contributed approximately 50.1% of total sales.
+This project demonstrates how Microsoft Excel can be
+used to analyse retail sales data and generate meaningful
+business insights. The analysis highlights customer
+purchasing patterns, regional performance, monthly sales
+trends and sales channel contributions.
 
-Amazon was the highest-contributing sales channel.
+---
 
-Amazon, Myntra and Flipkart collectively contributed approximately 80.4% of sales.
+## 👨‍💻 Author
 
-Maharashtra, Karnataka and Uttar Pradesh were the top three sales-contributing states.
-
-Approximately 92.25% of records had a delivered order status.
-
-March recorded the highest monthly sales.
-
-Business Recommendations
-
-Focus marketing campaigns on customer segments with higher sales contributions.
-
-Strengthen sales strategies across Amazon, Myntra and Flipkart.
-
-Explore opportunities to improve sales in lower-performing months.
-
-Develop region-specific promotional campaigns for high-performing states.
-
-Monitor cancelled, returned and refunded orders to identify potential improvement areas.
-
-Project Files
-
-README.md – Project documentation.
-
-Vrinda Store Data Analysis.xlsx – Complete Excel workbook containing raw data, analysis, Pivot Tables and dashboard.
-
-Conclusion
-
-This project demonstrates the use of Microsoft Excel for analysing retail sales data and converting raw information into meaningful business insights. It highlights customer purchasing patterns, sales performance and channel contributions that can support data-driven business decisions.
-
-Author
-
-Amir Shah
-Bachelor's of Management Studies 
+Amir Shah -
+Management Studies ( Finance ) -
 G.N. Khalsa College
 
