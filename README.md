@@ -34,7 +34,7 @@ interactive dashboard visualisations.
 
 ## 📊 Dashboard
 
-Vrinda-Store-Analysis-Dashboard.png
+![Vrinda Store Dashboard](Vrinda-Store-Analysis-Dashboard.png)
 
 ---
 
